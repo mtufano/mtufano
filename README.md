@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Michele</h1>
-<h3 align="center">AI and Computer Vision Engineer. <br> Ph.D. Candidate at Human Nutrition and Health, Wageningen University and Research <br> Research Affiliate at Senseable City Lab, Massachusetts Institute of Technology</h3>
+<h3 align="center">AI and Computer Vision Engineer. <br> CEO and Co-Founder at Eatpol BV (www.eatpol.com) <br> Ex Ph.D.  at Human Nutrition and Health, Wageningen University and Research <br> Research Affiliate at Senseable City Lab, Massachusetts Institute of Technology</h3>
 
 
 
